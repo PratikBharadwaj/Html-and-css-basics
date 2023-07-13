@@ -1,0 +1,34 @@
+<ul>
+  <li>Unordered List Item 1
+    <ol>
+      <li style="color: red;">Ordered List Item 1</li>
+      <li style="color: blue;">Ordered List Item 2</li>
+      <li style="color: green;">Ordered List Item 3</li>
+      <li style="color: orange;">Ordered List Item 4</li>
+    </ol>
+  </li>
+  <li>Unordered List Item 2
+    <ol>
+      <li style="color: red;">Ordered List Item 1</li>
+      <li style="color: blue;">Ordered List Item 2</li>
+      <li style="color: green;">Ordered List Item 3</li>
+      <li style="color: orange;">Ordered List Item 4</li>
+    </ol>
+  </li>
+  <li>Unordered List Item 3
+    <ol>
+      <li style="color: red;">Ordered List Item 1</li>
+      <li style="color: blue;">Ordered List Item 2</li>
+      <li style="color: green;">Ordered List Item 3</li>
+      <li style="color: orange;">Ordered List Item 4</li>
+    </ol>
+  </li>
+  <li>Unordered List Item 4
+    <ol>
+      <li style="color: red;">Ordered List Item 1</li>
+      <li style="color: blue;">Ordered List Item 2</li>
+      <li style="color: green;">Ordered List Item 3</li>
+      <li style="color: orange;">Ordered List Item 4</li>
+    </ol>
+  </li>
+</ul>

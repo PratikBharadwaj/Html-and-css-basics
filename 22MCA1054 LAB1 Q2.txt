@@ -1,0 +1,20 @@
+<!doctype = html>
+<html>
+<body>
+<center>
+<h1> Natalie Allio </h1>
+<hr style="width: 1500px; height:5px; background-color: black; border: none;">
+<p> 75 Monument Rd., London, England W1T 1JY </p>
+<p> Cell: 07956 654 32 </p>
+<p> example-email@example.com </p>
+<table>
+	<tr>
+		<td><hr style="width: 650px;"></td>
+		<td> POFESSIONAL SUMMARY </td>
+		<td><hr style="width: 650px;"></td>
+	</tr>
+</table>
+<p>Dedicated and focused secretary who excels at prioritising, completing multiple tasks simultaneously. Specialise in administrative support to busy engineering firms. Committed to delivering high quality results with little supervision. Energetic, organised, and professional.</p>
+</center>
+</body>
+</html>

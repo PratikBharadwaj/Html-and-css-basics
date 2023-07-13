@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Population Distribution</title>
+	<style>
+	.ol{
+		border: 1px solid yellow;
+		width: 150px;
+		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+	.cl{
+		border : 1px solid brown;
+		border-spacing: 0px;
+	}
+	.gl{
+		background-color: brown;
+		color: white;
+	}
+	.il{
+		text-align: left;
+	}
+	.el{
+		text-align: right;
+	}
+	.tl{
+		color: #FFFF00;
+	}
+	.al{
+		background-color: lightgray;
+	}
+	</style>	
+</head>
+
+
+<body class="ol">
+	<table class="cl">
+		<tr class="gl">
+			<th class="cl il">Region</th>
+			<th class="cl el">Percentage</th>
+		</tr>
+		<tr>
+			<td class="cl il tl al"> New England </td>
+			<td class="cl el tl al"> 12% </td>
+		</tr>
+		<tr>
+			<td class="cl il tl"> Mid-Atlantic </td>
+			<td class="cl el tl"> 19% </td>
+		</tr>
+	</table>
+</body>

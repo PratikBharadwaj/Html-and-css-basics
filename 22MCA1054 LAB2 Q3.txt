@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<style>
+		.bl{
+			border: 1px solid yellow;
+			width : 30%;
+			height: 50%;
+		}
+		.cl{
+			border: 1px solid black;
+			border-spacing: 20 px;
+			width : 50%;
+			height: 50%;
+		}
+		.hl{
+			height: 50px;
+		}
+		.h2{
+			height: 10px;
+		}
+		.bs{
+			border-left: 3px solid lightgrey;
+			border-right:3px solid black;
+			border-top:3px solid lightgrey;
+			border-bottom:3px solid black;
+		}
+	</style>
+</head>
+
+
+<body class="bl">
+	<table class="cl bs">
+		<tr class="hl">
+			<td class="cl"> Monday </td>
+			<td class="cl"> Tuesday </td>
+			<td class="cl"> Wednesday </td>
+		</tr>
+		<tr class="h2">
+			<td class="cl"> Thursaday </td>
+			<td class="cl"> Friday </td>
+		</tr>
+	</table>
+</body>

@@ -1,0 +1,14 @@
+<p style="color: purple; font-family: Verdana"> <u> First </u> </p>
+<p style="color: black; font-family: Verdana"> <em> <strong> Second </strong></em> </p>
+<p style="color: blue; font-family: Verdana"> <u> Third </u> </p>
+<p style="color: yellow; font-family: Verdana"> <em> <strong> Fourth </strong> </em> </p>
+<p style="color: red; font-family: Verdana"> Fifth </p>
+
+
+<h1>letters in name in different font size</h1>
+<h1>P</h1>
+<h2>R</h2>
+<h3>A</h3>
+<h4>T</h4>
+<h5>I</h5>
+<h6>K</h6>

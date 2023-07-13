@@ -1,0 +1,109 @@
+<DOCTYPE html>
+<html>
+<head>
+	<style>
+	.ob{
+		border: 2px solid yellow;
+	}	
+	</style>
+	
+	
+</head>
+
+<body class="ob">
+	<h1 style="text-align: left;"> My Feedback Form </h1>
+	<form>
+		<ul>
+			<li>
+				<label>Name:</label>
+				<input type="name">
+			</li>
+
+			<li>
+				<label>Email:</label>
+				<input type="email">
+
+			</li>
+
+			<li>
+				<label>Password:</label>
+				<input type="Password">
+			</li>
+
+			<li>
+				<p>Please check all the emotions that apply to you</p>
+			</li>
+
+			<ul>
+				<li>
+					<label>Angry:</label>
+					<input type="checkbox">
+				</li>
+				<li>
+					<label>Sad</labeel>
+					<input type="checkbox">
+				</li>
+				<li>
+					<label>Happy</label>
+					<input type="checkbox">
+				</li>
+				<li>
+					<label>Ambivalent</label>
+					<input type="checkbox">
+				</li>
+			</ul>
+
+			<li>
+				<p> How satisfied where you with our service </p>
+			</li>
+			<ul>
+				<li>
+					<label>Very satisfied</label>
+					<input type="radio">
+				</li>
+				<li>
+					<label>Satisfied</label>
+					<input type="radio">
+				</li>
+				<li>
+					<label>Didn't care</label>
+					<input type="radio">
+				</li>
+				<li>
+					<label>Dissatisfied</label>
+					<input type="radio">
+				</li>
+				<li>
+					<label>Very dissatisfied</label>
+					<input type="radio">
+				</li>
+			</ul>
+			<li>
+				<label>Furthermore comments:</label>
+				<input type="text">
+			</li>
+			<li>
+				<label>Bio photo:</label>
+				<input type="file">
+			</li>
+			<li>
+				<label>Bio Photo:</label><input type="text" name="file_name" id="file_name"><input type="file" name="img1" id="img1" onchange="document.getElementById('file_name').value = this.value">
+  				
+			</li>
+			<li>
+				Location visited:<select>
+					<option>INDIA</option>
+					<option>JAPAN</option>
+					<option>CHINA</option>
+				</select>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<input type="submit">
+			</li>
+		</ul>
+	</form>
+</body>
+</html>
+

@@ -1,0 +1,5 @@
+<h1 style="color: blue;">This is a Heading of h6</h1>
+<p style="font-size: 18px;">This text has a font size of 18 pixels.</p>
+<blockquote>Now is the <em>time</em> for all good <strong>people</strong> to <strong>come</strong> to the <em>aid</em> of their country </blockquote>
+<p><strong>This is a <em>nested</em> command.</strong></p>
+

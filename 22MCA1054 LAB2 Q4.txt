@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<style>
+		.cl{
+			border: 5px solid red;
+			width: 950px;
+			height: 50%;			
+		}
+		.gl{
+			border: 1px solid hotpink;
+			width: 50%;
+			height: 50%;
+		}
+		.dl{
+			border: 3px solid green;
+			width: 100%;
+			height: 50%;
+		}
+		.pl{
+			border: 1px solid lightgreen;
+			width: 50%;
+			height: 50%;
+		}
+
+	</style>
+</head>
+
+<body class="cl">
+	<table>
+		<tr>
+			<th>
+				<td class="gl"> First column of outer table </td>
+			</th>
+			<th class="gl">
+				<table class="dl">
+					<tr>
+						<td class="pl"> First row of inner table </td>
+					</tr>
+					<tr>
+						<td class="pl"> second row of inner table </td>
+					</tr>
+				</table>
+			</th>
+		</tr>
+	</table>
+</body>

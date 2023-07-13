@@ -1,0 +1,5 @@
+<img src="image1.jpg" style="border: 2px solid black; width: 200px; height: 200px;">
+
+
+
+<a href="image1.jpg" target="_blank">Click here to view the image</a>

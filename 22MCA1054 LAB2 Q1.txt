@@ -1,0 +1,39 @@
+<style>
+	table,th,td{
+		border: 1px solid black;
+  		border-collapse: collapse;
+	}
+	table{
+		height: 50%;
+		width: 50%;
+	}
+</style>
+
+<body>
+	<table>
+		<tr>
+			<th> friends Name </th>
+			<th> Profile picture(50x50) </th>
+			<th> Hobbies </th>
+		</tr>
+		<tr>
+			<td> Dr.Raj </td>
+			<td> <img src="image1.jpg" style="width: 50%; height: 50%;"></td>
+			<td>
+				<ul>
+					<li style="color: darkred;"> A </li>
+					<li style="color: darkred;"> B </li>
+					<ol>
+						<li style="color: green;"> A1 </li>
+						<li style="color :green;"> B2 </li>
+						<ol type="a">
+							<li style="color: lightblue;"> Aa </li>
+							<li style="color: lightblue;"> Bb </li>
+						</ol>
+					</ol>
+				</ul>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

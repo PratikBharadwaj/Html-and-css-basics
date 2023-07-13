@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fun Learning Mathematics</title>
+    <style>
+        body {
+            background-image: url(image1.jpg);
+        }
+    </style>
+</head>
+<body>
+    <h1>Fun Learning Mathematics</h1>
+    
+    <hr style="width: 60%; height: 20px; background-color: black; border: none;">
+    
+    <h2>List of Formulae</h2>
+    
+    <pre>
+        Formula<sub>1</sub>: (a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab
+    </pre>
+    
+    <table>
+        <tr>
+            <th>a</th>
+            <th>b</th>
+            <th>(a + b)²</th>
+            <th>a²</th>
+            <th>b²</th>
+            <th>2ab</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>9</td>
+            <td>1</td>
+            <td>4</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+            <td>49</td>
+            <td>9</td>
+            <td>16</td>
+            <td>24</td>
+        </tr>
+    </table>
+</body>
+</html>
